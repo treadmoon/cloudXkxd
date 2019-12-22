@@ -1,0 +1,39 @@
+<!-- <view class="container">
+  <ec-canvas id="mychart-dom-bar" canvas-id="mychart-bar" ec="{{ ec }}"></ec-canvas>
+</view> -->
+<view class="desc-box">
+  <view class="desc">
+    <view class="desc-head">功能介绍</view>
+    <view class="desc-title">模式</view>
+    <view class="desc-info">
+      <view>文字：输入自己想要展示的文字即可。</view>
+      <view>倒计时：输入倒计秒数，计时到0秒后，重新计时。</view>
+      <view>时间：展示当前时间。</view>
+    </view>
+    <view class="desc-title">变色速度</view>
+    <view class="desc-info">
+      <view>彩色模式：彩色变换的速度。</view>
+      <view>变色模式：多种颜色切换速度。</view>
+      <view>纯色模式：该模式无作用。</view>
+    </view>
+    <view class="desc-title">配色</view>
+    <view class="desc-info">
+      <view>彩色模式：字体为彩色。</view>
+      <view>变色模式：可选择多种颜色，颜色按顺序切换。</view>
+      <view>纯色模式：选择一种喜欢的颜色。</view>
+    </view>
+    <view class="desc-title">设置</view>
+    <view class="desc-info">
+      <view>点击完成，隐藏设置面板。</view>
+      <view>点击空白处，打开设置面板。</view>
+    </view>
+  </view>
+</view>
+<view class="back-home">
+  <navigator url="../index/index">
+    返回
+  </navigator>
+</view>
+<view class="ad-box">
+  <ad unit-id="adunit-26a452f0d60f80b7"></ad>
+</view>

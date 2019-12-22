@@ -1,0 +1,54 @@
+/* pages/isee/index.wxss */
+
+.ad-txt {
+  margin: 30px auto;
+  text-align: center;
+}
+
+.back-home {
+  margin: 30px auto;
+  font-size: 16px;
+  text-align: center;
+  background: #6dc074;
+  width: 180px;
+  padding: 6px;
+  color: #fff;
+  border-radius: 4px;
+}
+
+.container {
+  height: 640rpx;
+}
+
+ec-canvas {
+  width: 100%;
+}
+
+.desc-box {
+  padding: 5px 15px;
+  -webkit-overflow-scrolling: touch
+}
+
+.desc-head {
+  font-size: 12px;
+  color: #111;
+  margin: 5px auto;
+}
+
+.desc-title {
+  font-size: 16px;
+  color: #999;
+  margin: 10px 0;
+  background: #eee;
+  border-radius: 4px;
+}
+
+.desc-info {
+  line-height: 20px;
+  font-size: 14px;
+  color: #555;
+}
+
+.ad-box {
+  width: 100%;
+}
